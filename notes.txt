@@ -1,0 +1,30 @@
+1. For each problem, provide in more than 100 words, a short, high-level description of the problem;
+your approach to solve it; and any issues you encountered and if/how you managed to solve them.
+
+Problem 1 (Reverse): ...
+ so, for this one, i had to reverse a list of numbers or letters from the input. it was a bit tricky because i needed to make sure everything stayed in the right format. i read the input, put it in a list, and used a simple method to reverse it. i had some trouble when the input mixed numbers and letters, but i added checks to make sure everything was correct before reversing it, which helped a lot.
+Problem 2 (Euclidean Distance): ...
+here, i was calculating the distance between two points in space. i had to make sure the points were valid and had the same number of dimensions. i read the coordinates and used the distance formula. i ran into some issues with negative numbers and making sure the inputs were numeric, so i added error handling to catch mistakes, which made it work better.
+Problem 3 (Birthday Problem): ...
+in this problem, i looked at the chances that at least two people in a group have the same birthday. it involved some complicated math about probabilities. i tried different scenarios and used formulas to find the answer
+Problem 4 (Transpore)...
+here, i needed to find the transpose of a matrix, flipping it over its diagonal. the challenge was handling different matrix sizes. i read the input matrix, created a new one for the transpose, and filled it in. i had some issues with indexing, trying to access elements that didn’t exist yet, but i fixed it by checking my loops to make sure i accessed the right elements.
+Problem 5 (Pascal's Triangle): ...
+ this one was about creating pascal's triangle up to a certain number of rows. the main challenge was figuring out how to build each row based on the previous one. i used a 2D list to store the values and built the triangle row by row. i encountered some indexing errors, but i solved them by setting up my loops correctly to match the triangle's structure.
+Problem 6 (Generating the Waltz): ...
+ for this problem, i had to create a sequence of measures for a waltz using given tables. the challenge was picking the right random measures based on the rules for the minuet and trio parts. i read the input tables and simulated dice rolls to choose the measures. i made sure the random selections followed the rules, adding checks to confirm each measure was valid after i picked it.
+Problem 7 (Playing the Waltz): ...
+for this task, i needed to play the waltz using audio files. the challenge was ensuring the playback order matched the generated measures. i read the measures and created file paths for the audio. i ran into issues with file access and formats not matching, which caused playback problems.
+2. Did you receive help from anyone? List their names, status (classmate, course staff, other), and
+the nature of help received.
+
+Name                   Status           Help Received
+----                   ------           -------------
+shrey patel           TA                HOW TO APPROACH THE SITUATION FOR NUMBER 6
+
+...                    ...              ...
+
+3. List any other comments here. Feel free to provide any feedback on how much you learned from
+doing the assignment, and whether you enjoyed doing it.
+
+...
